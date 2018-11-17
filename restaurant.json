@@ -1,0 +1,27 @@
+{
+    "data": {
+        "name": "Comfort Food Restaurant",
+        "desc": "Delectable and palatable choices to satisfy your mood and tastebuds",
+        "operating_time": "9.00 A.M - 10.00 P.M",
+        "address": "19 Jln Tpp 5/7 Taman Industri 47100 Puchong",
+        "phone_num": "03-62143535",
+
+        "reviews": [
+            {
+                "phone_num": "011-2425678",
+                "rating": 4,
+                "comment": "Wide variety of choices. Great food quality"
+            },
+            {
+                "phone_num": "019-78347218",
+                "rating": 5,
+                "comment": "Awesome food selection. Comfortable ambience and friendly staffs"
+            },
+            {
+                "phone_num": "017-3326910",
+                "rating": 4.5,
+                "comment": "Impressed with food choices and service provided! Good value for price"
+            }
+        ]
+    }
+}

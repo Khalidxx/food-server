@@ -1,0 +1,80 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Hawaiian Burger",
+            "calories": 370.2,
+            "price": 9.70,
+            "url": ""
+        },
+        {
+            "id": 2,
+            "name": "Shawarma",
+            "calories": 220,
+            "price": 8.00,
+            "url": ""
+        },
+        {
+            "id": 3,
+            "name": "Chicken with Percik Sauce",
+            "calories": 497.9,
+            "price": 11.90,
+            "url": ""
+        },
+        {
+            "id": 4,
+            "name": "Chicken Satay",
+            "calories": 161,
+            "price": 10.00,
+            "url":""
+        },
+        {
+            "id": 5,
+            "name": "Braised Chicken with Rice",
+            "calories": 442,
+            "price": 12.40,
+            "url":""
+
+        },
+        {
+            "id": 6,
+            "name": "Buttermilk Chicken with Rice",
+            "calories": 1268,
+            "price": 10.65,
+            "url":""
+       
+        },
+        {
+            "id": 7,
+            "name": "Seafood Fried Rice",
+            "calories": 365,
+            "price": 9.15,
+            "url":""
+
+        },
+        {
+            "id": 8,
+            "name": "Iced Milo",
+            "calories": 110,
+            "price": 2.50,
+            "url":""
+        },
+        {
+            "id": 9,
+            "name": "French Fries",
+            "calories": 312,
+            "price": 5.60,
+            "url":""
+
+        },
+        {
+            "id": 10,
+            "name": "ABC",
+            "calories": 144,
+            "price": 3.60,
+            "url":""
+
+        }
+
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Quinoa Salad",
+            "calories": 200,
+            "price": 6.70,
+            "url": ""
+        },
+        {
+            "id": 2,
+            "name": "Cheezy Egg Muffins",
+            "calories": 100,
+            "price": 5.50,
+            "url": ""
+        },
+        {
+            "id": 3,
+            "name": "Zuchini Pie",
+            "calories": 125.5,
+            "price": 9.90,
+            "url": ""
+        },
+        {
+            "id": 4,
+            "name": "Kung Pao Chickpeas",
+            "calories": 170,
+            "price": 8.70,
+            "url":""
+        },
+        {
+            "id": 5,
+            "name": "Sweet Potato Burito with Avocado Salsa",
+            "calories": 654,
+            "price": 10.40,
+            "url":""
+
+        },
+        {
+            "id": 6,
+            "name": "Southern Fried Seitan",
+            "calories": 597,
+            "price": 9.65,
+            "url":
+       
+        },
+        {
+            "id": 7,
+            "name": "Shrimp with Funnel Risotto",
+            "calories": 458,
+            "price": 15.15,
+            "url":
+
+        },
+        {
+            "id": 8,
+            "name": "Grilled Checken with Goat Cheese",
+            "calories": 1145.9,
+            "price": 17.30,
+            "url":
+
+        },
+        {
+            "id": 9,
+            "name": "Squash Lasagna",
+            "calories": 439,
+            "price": 12.20,
+            "url":
+
+        },
+        {
+            "id": 10,
+            "name": "Peanut Butter Oatmeal Smooties",
+            "calories": 294,
+            "price": 9.60,
+            "url":
+
+        }
+
+    ]
+}

@@ -5,35 +5,35 @@
             "name": "Hawaiian Burger",
             "calories": 370.2,
             "price": 9.70,
-            "url": ""
+            "url": "https://github.com/Khalidxx/food-server/blob/master/nuetral/1.jpg"
         },
         {
             "id": 2,
             "name": "Shawarma",
             "calories": 220,
             "price": 8.00,
-            "url": ""
+            "url": "https://github.com/Khalidxx/food-server/blob/master/nuetral/2.jpg"
         },
         {
             "id": 3,
             "name": "Chicken with Percik Sauce",
             "calories": 497.9,
             "price": 11.90,
-            "url": ""
+            "url": "https://github.com/Khalidxx/food-server/blob/master/nuetral/3.jpg"
         },
         {
             "id": 4,
             "name": "Chicken Satay",
             "calories": 161,
             "price": 10.00,
-            "url":""
+            "url":"https://github.com/Khalidxx/food-server/blob/master/nuetral/4.jpg"
         },
         {
             "id": 5,
             "name": "Braised Chicken with Rice",
             "calories": 442,
             "price": 12.40,
-            "url":""
+            "url":"https://github.com/Khalidxx/food-server/blob/master/nuetral/5.jpg"
 
         },
         {
@@ -41,7 +41,7 @@
             "name": "Buttermilk Chicken with Rice",
             "calories": 1268,
             "price": 10.65,
-            "url":""
+            "url":"https://github.com/Khalidxx/food-server/blob/master/nuetral/6.jpg"
        
         },
         {
@@ -49,7 +49,7 @@
             "name": "Seafood Fried Rice",
             "calories": 365,
             "price": 9.15,
-            "url":""
+            "url":"https://github.com/Khalidxx/food-server/blob/master/nuetral/7.jpg"
 
         },
         {
@@ -57,14 +57,14 @@
             "name": "Iced Milo",
             "calories": 110,
             "price": 2.50,
-            "url":""
+            "url":"https://github.com/Khalidxx/food-server/blob/master/nuetral/8.jpg"
         },
         {
             "id": 9,
             "name": "French Fries",
             "calories": 312,
             "price": 5.60,
-            "url":""
+            "url":"https://github.com/Khalidxx/food-server/blob/master/nuetral/9.jpg"
 
         },
         {
@@ -72,7 +72,7 @@
             "name": "ABC",
             "calories": 144,
             "price": 3.60,
-            "url":""
+            "url":"https://github.com/Khalidxx/food-server/blob/master/nuetral/10.jpg"
 
         }
 

@@ -1,6 +1,8 @@
 import io
 import os
-import base64
+import requests
+import json
+import re
 
 # Import the flask server resources
 from flask import Flask, request, jsonify
@@ -96,6 +98,21 @@ class GetRestaurant(Resource):
             data = json.load(f)
             return data, 200
 
+
+class FoodInfo(Resource):
+    def get(self, title):
+        response = requests.get('https://spoonacular-recipe-food-nutrition-v1.p.mashape.com/recipes/guessNutrition?title=' + title,
+                    headers={'X-Mashape-Key':'ly4fmOXhOMmshQ6lS9Zw1IM6ksOAp1dHN0YjsnIfkxI0s7eY3F',
+                             'Accept':'application/json'},)
+        nutrition=json.loads(response.content)
+        nutrition_id= nutrition['recipesUsed']
+        response1 = requests.get('https://spoonacular-recipe-food-nutrition-v1.p.mashape.com/recipes/'+str(nutrition_id)+'/summary',
+                            headers={'X-Mashape-Key':'ly4fmOXhOMmshQ6lS9Zw1IM6ksOAp1dHN0YjsnIfkxI0s7eY3F',
+                                    'Accept':'application/json'},)
+        recipe=json.loads(response1.content)
+
+        return {"nutrition": nutrition, "recipe": recipe}
+
 # class FoodInfo(Resource):
 #     def post(self):
 #         f = request.files['file']
@@ -122,7 +139,7 @@ class GetRestaurant(Resource):
 api.add_resource(Recommend, '/recommend/<string:emotion>')
 api.add_resource(GetRestaurant, '/getRestaurant')
 api.add_resource(GetMenu, '/getMenu')
-#api.add_resource(FoodInfo, '/foodInfo')
+api.add_resource(FoodInfo, '/foodInfo/<string:title>')
 
 if __name__ == '__main__':
     app.run(debug = True)

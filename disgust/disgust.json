@@ -5,70 +5,70 @@
             "name": "Chicken Soup",
             "calories": 96,
             "price": 8.00,
-            "url": ""
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/disgust/1.jpg"
         },
         {
             "id": 2,
             "name": "Coconut Shake",
             "calories": 40,
             "price": 7.00,
-            "url": ""
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/disgust/2.jpg"
         },
         {
             "id": 3,
             "name": "Honey Chicken",
             "calories": 370,
             "price": 10.00,
-            "url": ""
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/disgust/3.jpg"
         },
         {
             "id": 4,
             "name": "Milky Yogurt",
             "calories": 105,
             "price": 5.00,
-            "url": ""
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/disgust/4.png"
         },
         {
             "id": 5,
             "name": "Fruit Salad",
             "calories": 170,
             "price": 9.00,
-            "url": ""
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/disgust/5.jpg"
         },
         {
             "id": 6,
             "name": "Chicken Fritters",
             "calories": 190,
             "price": 9.50,
-            "url": ""
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/disgust/6.jpg"
         },
         {
             "id": 7,
             "name": "Buffalo Chicken Burger",
             "calories": 470,
             "price": 16.00,
-            "url": ""
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/disgust/7.jpg"
         },
         {
             "id": 8,
             "name": "Fish Porridge",
             "calories": 120,
             "price": 8.20,
-            "url": "h"
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/disgust/8.jpg"
         },
         {
             "id": 9,
             "name": "Naan Bread",
             "calories": 120,
             "price": 4.00,
-            "url": "h"
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/disgust/9.jpg"
         },
         {
             "id": 10,
             "name": "Club Sandwiches",
             "calories": 240,
             "price": 6.50,
-            "url": "h"
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/disgust/10.jpg"
         },
         
 

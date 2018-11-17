@@ -1,0 +1,11 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Roasted Almond",
+            "calories": 595,
+            "price": 7.00,
+            "url": "https://github.com/Khalidxx/food-server/blob/master/1.jpg?raw=true"
+        }
+    ]
+}

@@ -5,7 +5,70 @@
             "name": "Roasted Almond",
             "calories": 595,
             "price": 7.00,
-            "url": "https://github.com/Khalidxx/food-server/blob/master/1.jpg?raw=true"
+            "url": ""
+        },
+        {
+            "id": 2,
+            "name": "Roasted Almond",
+            "calories": 160,
+            "price": 9.00,
+            "url": ""
+        },
+        {
+            "id": 3,
+            "name": "Berries Smoothie",
+            "calories": 250,
+            "price": 9.00,
+            "url": ""
+        },
+        {
+            "id": 4,
+            "name": "Chocolate cake",
+            "calories": 247,
+            "price": 6.5,
+            "url": ""
+        },
+        {
+            "id": 5,
+            "name": "Nachos",
+            "calories": 554,
+            "price": 6,
+            "url": ""
+        },
+        {
+            "id": 6,
+            "name": "French Fries",
+            "calories": 240,
+            "price": 4,
+            "url": ""
+        },
+        {
+            "id": 7,
+            "name": "Cheesy Lasagna",
+            "calories": 135,
+            "price": 9,
+            "url": ""
+        },
+        {
+            "id": 8,
+            "name": "Pizza",
+            "calories": 266,
+            "price": 8,
+            "url": ""
+        },
+        {
+            "id": 9,
+            "name": "Grilled Salmon",
+            "calories": 240,
+            "price": 215,
+            "url": ""
+        },
+        {
+            "id": 10,
+            "name": "Spicy Curry Mee",
+            "calories": 450,
+            "price": 8.50,
+            "url": ""
         }
     ]
 }

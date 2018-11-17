@@ -5,70 +5,80 @@
             "name": "Cheesy Baked Asparagus",
             "calories": 220,
             "price": 7.00,
-            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/fear/1.jpg"
+            "category": "main course",
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/fear/1.jpg?raw=true"
         },
         {
             "id": 2,
             "name": "Taco Stuffed Avacado",
             "calories": 315,
             "price": 12,
-            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/fear/2.jpg"
+            "category": "main course",
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/fear/2.jpg?raw=true"
         },
         {
             "id": 3,
             "name": "Blueberry Cheese Tart",
             "calories": 109,
             "price": 4,
-            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/fear/3.jpg"
+            "category": "dessert",
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/fear/3.jpg?raw=true"
         },
         {
             "id": 4,
             "name": "Roasted Turkey Breast",
             "calories": 420,
             "price": 17,
-            "url": ""
+            "category": "main course",
+            "url": "https://github.com/Khalidxx/food-server/blob/master/fear/4.jpg?raw=true?raw=true"
         },
         {
             "id": 5,
             "name": "Roasted Almonds",
             "calories": 595,
             "price": 7.00,
-            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/fear/5.jpg"
+            "category": "main course",
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/fear/5.jpg?raw=true"
         },
         {
             "id": 6,
             "name": "Strawberry Frozen Yogurt",
             "calories": 112,
             "price": 8.20,
-            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/fear/6.jpg"
+            "category": "dessert",
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/fear/6.jpg?raw=true"
         },
         {
             "id": 7,
             "name": "Mac & Cheese",
             "calories": 430,
             "price": 8.00,
-            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/fear/10.jpg"
+            "category": "main course",
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/fear/10.jpg?raw=true"
         },
         {
             "id": 8,
             "name": "Fried Goat's Cheese",
             "calories": 190,
             "price": 11.00,
-            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/fear/7.jpg"
+            "category": "dessert",
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/fear/7.jpg?raw=true"
         },
         {
             "id": 9,
             "name": "Indian Gulab Jamun",
             "calories": 300,
             "price": 6.00,
-            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/fear/9.jpg"
+            "category": "dessert",
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/fear/9.jpg?raw=true"
         },
         {
             "id": 10,
             "name": "Custard Apple Pie",
             "calories": 281,
             "price": 15.00,
-            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/fear/8.jpg"
+            "category": "dessert",
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/fear/8.jpg?raw=true"
         }
     ]
 }

@@ -5,35 +5,40 @@
             "name": "Quinoa Salad",
             "calories": 200,
             "price": 6.70,
-            "url": "https://github.com/Khalidxx/food-server/blob/master/suprise/1.jpg"
+            "category": "main course",
+            "url": "https://github.com/Khalidxx/food-server/blob/master/suprise/1.jpg?raw=true"
         },
         {
             "id": 2,
             "name": "Cheezy Egg Muffins",
             "calories": 100,
             "price": 5.50,
-            "url": "https://github.com/Khalidxx/food-server/blob/master/suprise/2.jpg"
+            "category": "dessert",
+            "url": "https://github.com/Khalidxx/food-server/blob/master/suprise/2.jpg?raw=true"
         },
         {
             "id": 3,
             "name": "Zuchini Pie",
             "calories": 125.5,
             "price": 9.90,
-            "url": "https://github.com/Khalidxx/food-server/blob/master/suprise/3.jpg"
+            "category": "main course",
+            "url": "https://github.com/Khalidxx/food-server/blob/master/suprise/3.jpg?raw=true"
         },
         {
             "id": 4,
             "name": "Kung Pao Chickpeas",
             "calories": 170,
             "price": 8.70,
-            "url":"https://github.com/Khalidxx/food-server/blob/master/suprise/4.jpg"
+            "category": "main course",
+            "url":"https://github.com/Khalidxx/food-server/blob/master/suprise/4.jpg?raw=true"
         },
         {
             "id": 5,
             "name": "Sweet Potato Burito with Avocado Salsa",
             "calories": 654,
             "price": 10.40,
-            "url":"https://github.com/Khalidxx/food-server/blob/master/suprise/5.jpg"
+            "category": "main course",
+            "url":"https://github.com/Khalidxx/food-server/blob/master/suprise/5.jpg?raw=true"
 
         },
         {
@@ -41,7 +46,8 @@
             "name": "Southern Fried Seitan",
             "calories": 597,
             "price": 9.65,
-            "url":"https://github.com/Khalidxx/food-server/blob/master/suprise/6.jpg"
+            "category": "main course",
+            "url":"https://github.com/Khalidxx/food-server/blob/master/suprise/6.jpg?raw=true"
        
         },
         {
@@ -49,7 +55,8 @@
             "name": "Shrimp with Funnel Risotto",
             "calories": 458,
             "price": 15.15,
-            "url":"https://github.com/Khalidxx/food-server/blob/master/suprise/7.jpg"
+            "category": "main course",
+            "url":"https://github.com/Khalidxx/food-server/blob/master/suprise/7.jpg?raw=true"
 
         },
         {
@@ -57,7 +64,8 @@
             "name": "Grilled Checken with Goat Cheese",
             "calories": 1145.9,
             "price": 17.30,
-            "url":"https://github.com/Khalidxx/food-server/blob/master/suprise/8.jpg"
+            "category": "main course",
+            "url":"https://github.com/Khalidxx/food-server/blob/master/suprise/8.jpg?raw=true"
 
         },
         {
@@ -65,7 +73,8 @@
             "name": "Squash Lasagna",
             "calories": 439,
             "price": 12.20,
-            "url":"https://github.com/Khalidxx/food-server/blob/master/suprise/9.jpg"
+            "category": "main course",
+            "url":"https://github.com/Khalidxx/food-server/blob/master/suprise/9.jpg?raw=true"
 
         },
         {
@@ -73,7 +82,8 @@
             "name": "Peanut Butter Oatmeal Smooties",
             "calories": 294,
             "price": 9.60,
-            "url":"https://github.com/Khalidxx/food-server/blob/master/suprise/10.jpg"
+            "category": "drinks",
+            "url":"https://github.com/Khalidxx/food-server/blob/master/suprise/10.jpg?raw=true"
 
         }
 

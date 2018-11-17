@@ -5,70 +5,80 @@
             "name": "Roasted Almond",
             "calories": 595,
             "price": 7.00,
-            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/happy/roasted-almonds-ck-1918491-x.jpg"
+            "category": "main course",
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/happy/roasted-almonds-ck-1918491-x.jpg?raw=true"
         },
         {
             "id": 2,
             "name": "Mixed Nuts",
             "calories": 160,
             "price": 9.00,
-            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/happy/mixed-nuts.jpg"
+            "category": "dessert",
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/happy/mixed-nuts.jpg?raw=true"
         },
         {
             "id": 3,
             "name": "Berries Smoothie",
             "calories": 250,
             "price": 9.00,
-            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/happy/1386935601342.jpeg"
+            "category": "drinks",
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/happy/1386935601342.jpeg?raw=true"
         },
         {
             "id": 4,
             "name": "Chocolate cake",
             "calories": 247,
             "price": 6.5,
-            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/happy/triple-chocolate-cake-5.jpg"
+            "category": "dessert",
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/happy/triple-chocolate-cake-5.jpg?raw=true"
         },
         {
             "id": 5,
             "name": "Nachos",
             "calories": 554,
             "price": 6,
-            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/happy/1386546172793.jpg"
+            "category": "main course",
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/happy/1386546172793.jpg?raw=true"
         },
         {
             "id": 6,
             "name": "French Fries",
             "calories": 240,
             "price": 4,
-            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/happy/shutterstock_510881971.jpg"
+            "category": "main course",
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/happy/shutterstock_510881971.jpg?raw=true"
         },
         {
             "id": 7,
             "name": "Cheesy Lasagna",
             "calories": 135,
             "price": 9,
-            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/happy/15RECIPE20DIN-articleLarge.jpg"
+            "category": "main course",
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/happy/15RECIPE20DIN-articleLarge.jpg?raw=true"
         },
         {
             "id": 8,
             "name": "Bursting Tomato Pizza",
             "calories": 266,
             "price": 8,
-            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/happy/Eq_it-na_pizza-margherita_sep2005_sml.jpg"
+            "category": "main course",
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/happy/Eq_it-na_pizza-margherita_sep2005_sml.jpg?raw=true"
         },
         {
             "id": 9,
             "name": "Grilled Salmon",
             "calories": 240,
             "price": 15,
-            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/happy/grilled-salmon-dill-butter-horiz-640.jpg"
+            "category": "main course",
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/happy/grilled-salmon-dill-butter-horiz-640.jpg?raw=true"
         },
         {
             "id": 10,
             "name": "Spicy Curry Mee",
             "calories": 450,
             "price": 8.50,
-            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/happy/curry%20mee.jpg"
+            "category": "main course",
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/happy/curry%20mee.jpg?raw=true"
         }
     ]
 }

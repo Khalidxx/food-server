@@ -5,6 +5,7 @@
             "name": "Salmon Burger with Coleslaw ",
             "calories": 458.8,
             "price": 11.50,
+            "category": "main course",
             "url": "https://github.com/Khalidxx/food-server/blob/master/sad/1.jpg?raw=true"
         },
         {
@@ -12,6 +13,7 @@
             "name": "Macaroni and Cheese",
             "calories": 310,
             "price": 9.15,
+            "category": "main course",
             "url": "https://github.com/Khalidxx/food-server/blob/master/sad/2.jpg?raw=true"
         },
         {
@@ -19,6 +21,7 @@
             "name": "Banana Unicorn Smoothies",
             "calories": 257,
             "price": 6.50,
+            "category": "drinks",
             "url": "https://github.com/Khalidxx/food-server/blob/master/sad/3.jpg?raw=true"
         },
         {
@@ -26,6 +29,7 @@
             "name": "Southwestern Chicken with Rice",
             "calories": 450,
             "price": 14.20,
+            "category": "main course",
             "url":"https://github.com/Khalidxx/food-server/blob/master/sad/4.jpg?raw=true"
         },
         {
@@ -33,6 +37,7 @@
             "name": "Chicken Fajita Pita",
             "calories": 425,
             "price": 10.90,
+            "category": "main course",
             "url":"https://github.com/Khalidxx/food-server/blob/master/sad/5.jpg?raw=true"
 
         },
@@ -41,6 +46,7 @@
             "name": "Almond Bread Pudding",
             "calories": 317,
             "price": 4.65,
+            "category": "dessert",
             "url":"https://github.com/Khalidxx/food-server/blob/master/sad/6.jpg?raw=true"
        
         },
@@ -49,6 +55,7 @@
             "name": "Spiced Hot Chocolate with Marshmallow",
             "calories": 85,
             "price": 7.15,
+            "category": "dessert",
             "url":"https://github.com/Khalidxx/food-server/blob/master/sad/7.jpg?raw=true"
 
         },
@@ -57,6 +64,7 @@
             "name": "Seafood Enchiladas",
             "calories": 710,
             "price": 15.30,
+            "category": "main course",
             "url":"https://github.com/Khalidxx/food-server/blob/master/sad/8.jpg?raw=true"
 
         },
@@ -65,6 +73,7 @@
             "name": "Chipolte Fish Tacos",
             "calories": 539,
             "price": 13.00,
+            "category": "main course",
             "url":"https://github.com/Khalidxx/food-server/blob/master/sad/9.jpg?raw=true"
 
         },
@@ -73,6 +82,7 @@
             "name": "Yogurt Parfait",
             "calories": 320,
             "price": 8.00,
+            "category": "dessert",
             "url":"https://github.com/Khalidxx/food-server/blob/master/sad/10.jpg?raw=true"
 
         }

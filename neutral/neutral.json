@@ -5,35 +5,40 @@
             "name": "Hawaiian Burger",
             "calories": 370.2,
             "price": 9.70,
-            "url": "https://github.com/Khalidxx/food-server/blob/master/nuetral/1.jpg"
+            "category": "main course",
+            "url": "https://github.com/Khalidxx/food-server/blob/master/nuetral/1.jpg?raw=true"
         },
         {
             "id": 2,
             "name": "Shawarma",
             "calories": 220,
             "price": 8.00,
-            "url": "https://github.com/Khalidxx/food-server/blob/master/nuetral/2.jpg"
+            "category": "main course",
+            "url": "https://github.com/Khalidxx/food-server/blob/master/nuetral/2.jpg?raw=true"
         },
         {
             "id": 3,
             "name": "Chicken with Percik Sauce",
             "calories": 497.9,
             "price": 11.90,
-            "url": "https://github.com/Khalidxx/food-server/blob/master/nuetral/3.jpg"
+            "category": "main course",
+            "url": "https://github.com/Khalidxx/food-server/blob/master/nuetral/3.jpg?raw=true"
         },
         {
             "id": 4,
             "name": "Chicken Satay",
             "calories": 161,
             "price": 10.00,
-            "url":"https://github.com/Khalidxx/food-server/blob/master/nuetral/4.jpg"
+            "category": "main course",
+            "url":"https://github.com/Khalidxx/food-server/blob/master/nuetral/4.jpg?raw=true"
         },
         {
             "id": 5,
             "name": "Braised Chicken with Rice",
             "calories": 442,
             "price": 12.40,
-            "url":"https://github.com/Khalidxx/food-server/blob/master/nuetral/5.jpg"
+            "category": "main course",
+            "url":"https://github.com/Khalidxx/food-server/blob/master/nuetral/5.jpg?raw=true"
 
         },
         {
@@ -41,7 +46,8 @@
             "name": "Buttermilk Chicken with Rice",
             "calories": 1268,
             "price": 10.65,
-            "url":"https://github.com/Khalidxx/food-server/blob/master/nuetral/6.jpg"
+            "category": "main course",
+            "url":"https://github.com/Khalidxx/food-server/blob/master/nuetral/6.jpg?raw=true"
        
         },
         {
@@ -49,7 +55,8 @@
             "name": "Seafood Fried Rice",
             "calories": 365,
             "price": 9.15,
-            "url":"https://github.com/Khalidxx/food-server/blob/master/nuetral/7.jpg"
+            "category": "main course",
+            "url":"https://github.com/Khalidxx/food-server/blob/master/nuetral/7.jpg?raw=true"
 
         },
         {
@@ -57,14 +64,16 @@
             "name": "Iced Milo",
             "calories": 110,
             "price": 2.50,
-            "url":"https://github.com/Khalidxx/food-server/blob/master/nuetral/8.jpg"
+            "category": "drinks",
+            "url":"https://github.com/Khalidxx/food-server/blob/master/nuetral/8.jpg?raw=true"
         },
         {
             "id": 9,
             "name": "French Fries",
             "calories": 312,
             "price": 5.60,
-            "url":"https://github.com/Khalidxx/food-server/blob/master/nuetral/9.jpg"
+            "category": "main course",
+            "url":"https://github.com/Khalidxx/food-server/blob/master/nuetral/9.jpg?raw=true"
 
         },
         {
@@ -72,7 +81,8 @@
             "name": "ABC",
             "calories": 144,
             "price": 3.60,
-            "url":"https://github.com/Khalidxx/food-server/blob/master/nuetral/10.jpg"
+            "category": "dessert",
+            "url":"https://github.com/Khalidxx/food-server/blob/master/nuetral/10.jpg?raw=true"
 
         }
 

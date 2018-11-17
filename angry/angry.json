@@ -5,6 +5,7 @@
             "name": "Stir Fried Cashew Chicken",
             "calories": 850,
             "price": 12.50,
+            "category": "main course",
             "url": "https://github.com/Khalidxx/food-server/blob/master/1.jpg?raw=true"
         },
         {
@@ -12,6 +13,7 @@
             "name": "Cheese Balls",
             "calories": 563,
             "price": 7.20,
+            "category": "main course",
             "url": "https://github.com/Khalidxx/food-server/blob/master/2.jpg?raw=true"
         },
         {
@@ -19,6 +21,7 @@
             "name": "Roasted Sweet Potatoes",
             "calories": 517,
             "price": 11.40,
+            "category": "main course",
             "url": "https://github.com/Khalidxx/food-server/blob/master/3.jpg?raw=true"
         },
         {
@@ -26,6 +29,7 @@
             "name": "Banana-Nut Oatmeal",
             "calories": 420,
             "price": 8.10,
+            "category": "dessert",
             "url": "https://github.com/Khalidxx/food-server/blob/master/4.jpg?raw=true"
         },
         {
@@ -33,6 +37,7 @@
             "name": "Teriyaki Salmon with Sesame Pak Choi",
             "calories": 630,
             "price": 14.90,
+            "category": "main course",
             "url": "https://github.com/Khalidxx/food-server/blob/master/5.jpg?raw=true"
         },
         {
@@ -40,6 +45,7 @@
             "name": "Bluberry Muffin",
             "calories": 377,
             "price": 3.20,
+            "category": "dessert",
             "url": "https://github.com/Khalidxx/food-server/blob/master/6.jpg?raw=true"
         },
         {
@@ -47,6 +53,7 @@
             "name": "Milk Cake",
             "calories": 411,
             "price": 5.60,
+            "category": "dessert",
             "url": "https://github.com/Khalidxx/food-server/blob/master/6.jpg?raw=true"
         },
         {
@@ -54,6 +61,7 @@
             "name": "Fruit Salad",
             "calories": 50,
             "price": 6.30,
+            "category": "dessert",
             "url": "https://github.com/Khalidxx/food-server/blob/master/8.jpg?raw=true"
         },
         {
@@ -61,6 +69,7 @@
             "name": "Kiwiw Juice",
             "calories": 100,
             "price": 6.00,
+            "category": "drinks",
             "url": "https://github.com/Khalidxx/food-server/blob/master/9.jpg?raw=true"
         },
         {
@@ -68,6 +77,7 @@
             "name": "Orange Juice",
             "calories": 100,
             "price": 5.00,
+            "category": "drinks",
             "url": "https://github.com/Khalidxx/food-server/blob/master/10.jpg?raw=true"
         }
 

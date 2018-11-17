@@ -5,70 +5,80 @@
             "name": "Chicken Soup",
             "calories": 96,
             "price": 8.00,
-            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/disgust/1.jpg"
+            "category": "main course",
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/disgust/1.jpg?raw=true"
         },
         {
             "id": 2,
             "name": "Coconut Shake",
             "calories": 40,
             "price": 7.00,
-            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/disgust/2.jpg"
+            "category": "drinks",
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/disgust/2.jpg?raw=true"
         },
         {
             "id": 3,
             "name": "Honey Chicken",
             "calories": 370,
             "price": 10.00,
-            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/disgust/3.jpg"
+            "category": "main course",
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/disgust/3.jpg?raw=true"
         },
         {
             "id": 4,
             "name": "Milky Yogurt",
             "calories": 105,
             "price": 5.00,
-            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/disgust/4.png"
+            "category": "dessert",
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/disgust/4.png?raw=true"
         },
         {
             "id": 5,
             "name": "Fruit Salad",
             "calories": 170,
             "price": 9.00,
-            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/disgust/5.jpg"
+            "category": "dessert",
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/disgust/5.jpg?raw=true"
         },
         {
             "id": 6,
             "name": "Chicken Fritters",
             "calories": 190,
             "price": 9.50,
-            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/disgust/6.jpg"
+            "category": "main course",
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/disgust/6.jpg?raw=true"
         },
         {
             "id": 7,
             "name": "Buffalo Chicken Burger",
             "calories": 470,
             "price": 16.00,
-            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/disgust/7.jpg"
+            "category": "main course",
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/disgust/7.jpg?raw=true"
         },
         {
             "id": 8,
             "name": "Fish Porridge",
             "calories": 120,
             "price": 8.20,
-            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/disgust/8.jpg"
+            "category": "main course",
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/disgust/8.jpg?raw=true"
         },
         {
             "id": 9,
             "name": "Naan Bread",
             "calories": 120,
             "price": 4.00,
-            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/disgust/9.jpg"
+            "category": "main course",
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/disgust/9.jpg?raw=true"
         },
         {
             "id": 10,
             "name": "Club Sandwiches",
             "calories": 240,
             "price": 6.50,
-            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/disgust/10.jpg"
+            "category": "main course",
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/disgust/10.jpg?raw=true"
         }
         
 

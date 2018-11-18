@@ -5,35 +5,35 @@
             "name": "Salmon Burger with Coleslaw ",
             "calories": 458.8,
             "price": 11.50,
-            "url": "https://github.com/Khalidxx/food-server/blob/master/sad/1.jpg?raw=true"
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/sad/1.jpg"
         },
         {
             "id": 2,
             "name": "Macaroni and Cheese",
             "calories": 310,
             "price": 9.15,
-            "url": "https://github.com/Khalidxx/food-server/blob/master/sad/2.jpg?raw=true"
+            "url": "hhttps://raw.githubusercontent.com/Khalidxx/food-server/master/sad/2.jpg"
         },
         {
             "id": 3,
             "name": "Banana Unicorn Smoothies",
             "calories": 257,
             "price": 6.50,
-            "url": "https://github.com/Khalidxx/food-server/blob/master/sad/3.jpg?raw=true"
+            "url": "https://raw.githubusercontent.com/Khalidxx/food-server/master/sad/3.jpg"
         },
         {
             "id": 4,
             "name": "Southwestern Chicken with Rice",
             "calories": 450,
             "price": 14.20,
-            "url":"https://github.com/Khalidxx/food-server/blob/master/sad/4.jpg?raw=true"
+            "url":"https://raw.githubusercontent.com/Khalidxx/food-server/master/sad/4.jpg"
         },
         {
             "id": 5,
             "name": "Chicken Fajita Pita",
             "calories": 425,
             "price": 10.90,
-            "url":"https://github.com/Khalidxx/food-server/blob/master/sad/5.jpg?raw=true"
+            "url":"https://raw.githubusercontent.com/Khalidxx/food-server/master/sad/5.jpg"
 
         },
         {
@@ -41,7 +41,7 @@
             "name": "Almond Bread Pudding",
             "calories": 317,
             "price": 4.65,
-            "url":"https://github.com/Khalidxx/food-server/blob/master/sad/6.jpg?raw=true"
+            "url":"https://raw.githubusercontent.com/Khalidxx/food-server/master/sad/6.jpg"
        
         },
         {
@@ -49,7 +49,7 @@
             "name": "Spiced Hot Chocolate with Marshmallow",
             "calories": 85,
             "price": 7.15,
-            "url":"https://github.com/Khalidxx/food-server/blob/master/sad/7.jpg?raw=true"
+            "url":"https://raw.githubusercontent.com/Khalidxx/food-server/master/sad/7.jpg"
 
         },
         {
@@ -57,7 +57,7 @@
             "name": "Seafood Enchiladas",
             "calories": 710,
             "price": 15.30,
-            "url":"https://github.com/Khalidxx/food-server/blob/master/sad/8.jpg?raw=true"
+            "url":"https://raw.githubusercontent.com/Khalidxx/food-server/master/sad/8.jpg"
 
         },
         {
@@ -65,7 +65,7 @@
             "name": "Chipolte Fish Tacos",
             "calories": 539,
             "price": 13.00,
-            "url":"https://github.com/Khalidxx/food-server/blob/master/sad/9.jpg?raw=true"
+            "url":"https://raw.githubusercontent.com/Khalidxx/food-server/master/sad/9.jpg"
 
         },
         {
@@ -73,7 +73,7 @@
             "name": "Yogurt Parfait",
             "calories": 320,
             "price": 8.00,
-            "url":"https://github.com/Khalidxx/food-server/blob/master/sad/10.jpg?raw=true"
+            "url":"https://raw.githubusercontent.com/Khalidxx/food-server/master/sad/10.jpg"
 
         }
 

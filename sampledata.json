@@ -1,0 +1,26 @@
+{
+    "rows": [
+        {
+            "id": 1,
+            "timestamp": "2019-04-22 13:32:47 GMT+0800",
+            "reference": "90761349688",
+            "contract_type": "CALL",
+            "entry_tick": 891.995,
+            "exit_tick": 891.873,
+            "buy_price": 1.00,
+            "sell_price": 0,
+            "profit": -1.00
+        },
+        {
+            "id": 2,
+            "timestamp": "2019-04-22 13:38:48 GMT+0800",
+            "reference": "90761927668",
+            "contract_type": "CALL",
+            "entry_tick": 892.241,
+            "exit_tick": 892.266,
+            "buy_price": 1.00,
+            "sell_price": 1.87,
+            "profit": 0.87
+        }
+    ]
+}
